@@ -1,0 +1,44 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+
+# Other generated files
+*.exe
+*.dll
+*.pdb
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.manifest
+
+# Publish results
+publish/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Temporary files
+*.tmp
+*.bak
+
+# User-specific files
+*.userprefs
+*.sln.docstates
+
+# OS files
+Thumbs.db
+Desktop.ini
